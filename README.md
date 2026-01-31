@@ -48,5 +48,8 @@ Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 Jupyter Notebook
 
 Power BI
+
+<img width="1325" height="751" alt="1" src="https://github.com/user-attachments/assets/2c270e11-76bd-4327-ace1-83033b67f70f" />
+<img width="1323" height="745" alt="2" src="https://github.com/user-attachments/assets/8b230065-5cf8-449d-aef2-208a83133670" />
 <img width="1318" height="743" alt="3" src="https://github.com/user-attachments/assets/3f8cbf1e-5d70-4f49-8c2b-7a295c8a5b45" />
 
